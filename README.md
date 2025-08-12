@@ -15,7 +15,7 @@ A modern AI-powered web application for identifying dog breeds from images, buil
 
 ## 🖼️ Screenshots
 
-![Dog Breed Identifier Screenshot](https://cdn.jsdelivr.net/gh/janiyax35/assets/dog-breed-identifier-screenshot.png)
+![Dog Breed Identifier Screenshot](https://cdn.jsdelivr.net/gh/it24102137/assets/dog-breed-identifier-screenshot.png)
 
 ## 🧑‍💻 Creator
 
